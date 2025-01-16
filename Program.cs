@@ -5,7 +5,7 @@
 * Purpose: This application demonstrates the basic structure of a .NET console application. 
 */
 
-// This namespace contains all the code for the application 
+// This namespace contains all the code for the application f
 namespace COMP003.LectureActivity1
 {
     // This is the main class of the application 
